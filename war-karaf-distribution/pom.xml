@@ -49,8 +49,10 @@
                     <bootFeatures>
                         <feature>standard</feature>
                         <feature>management</feature>
-                        <feature>war-feature</feature>
                     </bootFeatures>
+                    <installedFeatures>
+                        <feature>war-feature</feature>
+                    </installedFeatures>
                 </configuration>
             </plugin>
         </plugins>
